@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/hugo-rimet-b90296200/">
     <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Rimet-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/HugoRimet">
+  <a href="https://github.com/hrimet">
     <img src="https://img.shields.io/badge/GitHub-HugoRimet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://orcid.org/0009-0008-7995-8903">
