@@ -1,7 +1,6 @@
 # Welcome to my GitHub 👨‍💻
 
-🔬 **Research Engineer** specialized in **bioinformatics** at the  
-**Skin Immunity & Allergy** team, **International Center for Infectiology Research (CIRI)**.
+🔬 **Engineer** specialized in **bioinformatics** at the **Skin Immunity & Allergy** team, **International Center for Infectiology Research (CIRI)**.
 
 🎓 I hold a **Master's degree in Microbiology** from the **University of Lorraine** and a **Master's degree in Bioinformatics** from the **University of Nantes**.
 
@@ -20,15 +19,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python badge"/>
   <img src="https://img.shields.io/badge/Nextflow-3BB273?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow badge"/>
-</p>
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoRimet&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
