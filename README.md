@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=180&section=header&text=Hugo%20Rimet&fontSize=40&fontAlignY=40&desc=Bioinformatics%20Engineer%20|%20Skin%20Immunity%20%26%20Allergy%20@CIRI&descAlignY=70&descAlign=60" alt="banner">
-</p>
-
 # Welcome to my GitHub 👨‍💻
 
 🔬 **Research Engineer** specialized in **bioinformatics** at the  
